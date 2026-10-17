@@ -1,0 +1,8 @@
+{
+  "name": "DocuMed — AI Medical Report Intelligence Platform",
+  "description": "Secure clinical intelligence platform to upload, understand, question, and compare medical reports for patients and healthcare professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
